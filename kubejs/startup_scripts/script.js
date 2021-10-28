@@ -13,12 +13,4 @@ onEvent('block.registry', event => {
 })
 
 onEvent("item.tags", event => {
-	event.add("forge:ingots", "kubejs:steel_ingot"),
-	event.add("forge:ingots/steel", "kubejs:steel_ingot"),
-	event.add("forge:dusts/coal_coke", "kubejs:coke_dust"),
-	event.add("forge:dusts/steel", "kubejs:steel_blend"),
-	event.add("forge:ores/tin", "kubejs:tin_ore"),
-	event.add("forge:ores", "kubejs:tin_ore"),
-	event.add("forge:plates", "kubejs:steel_plate"),
-	event.add("forge:plates/steel", "kubejs:steel_plate")
   });

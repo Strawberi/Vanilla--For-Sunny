@@ -433,8 +433,20 @@ file = "kubejs/config/common.properties"
 hash = "f196a8b88c4d0dcdb2f658cb080aa7d472a0bbfc95defb4db69083486a49bb4b"
 
 [[files]]
+file = "kubejs/data/beri/recipes/blast_bronze.json"
+hash = "2593bcea22c95c5f0941fb3a74378e85de3373484fd532abb99bf4c90ace3418"
+
+[[files]]
+file = "kubejs/data/beri/recipes/blast_electrum.json"
+hash = "97d72b703942219861bde02e92d9620f36b364a4d7c3e207374e051e17554dc1"
+
+[[files]]
 file = "kubejs/data/beri/recipes/blast_steel.json"
 hash = "000df65755c64340f90110e86c7aaeb879c3ef229daa6f77e516f14125861897"
+
+[[files]]
+file = "kubejs/data/beri/recipes/blast_tin.json"
+hash = "f2b77a389fdefc6b8e4a9518824d9c1b589dada66cd46998956d39362bec649f"
 
 [[files]]
 file = "kubejs/data/beri/recipes/bronze_blend.json"
@@ -630,11 +642,15 @@ hash = "225347a1179c001a66e0168b54a5b7996fcec6c0fa912893baf433530996652b"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
-hash = "21189a9821acca24d1ba1d7bf7bd1374ae50cbe938a5b3e7cf809b6fca2e641c"
+hash = "4feb60069d11fc6292530329e16a9e4c92993a41491f656c4cf15d8d7d26d374"
+
+[[files]]
+file = "kubejs/startup_scripts/newmetals.js"
+hash = "c057092254c7b92fc1d48e7353bccf402123ada2c04111141bc01aa4ae33ba85"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "5e127198d0fd964c04b17313d49ed1ac3f4cd29167a8dd1865a0f0be61543b00"
+hash = "055de7f283ae328841e61a141402127f5d0559fd6a78f3e51867b4aaaa826bd4"
 
 [[files]]
 file = "mods/appleskin.toml"

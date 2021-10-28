@@ -10,6 +10,7 @@ onEvent("item.registry", event => {
   event.create("coke_dust").displayName("Coke Dust").burnTime(3200);
   event.create("coal_coke").displayName("Coke").burnTime(3200);
   event.create("coal_coke_block").displayName("Coke Block").burnTime(32000);
+  event.create("tin_ore").displayName("Tin Ore");
   event.create("tin_ingot").displayName("Tin Ingot");
   event.create("tin_nugget").displayName("Tin Nugget");
   event.create("tin_block").displayName("Tin Block");
