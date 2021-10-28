@@ -23,5 +23,7 @@ onEvent("item.registry", event => {
   event.create("electrum_ingot").displayName("Electrum Ingot");
   event.create("electrum_nugget").displayName("Electrum Nugget");
   event.create("electrum_block").displayName("Electrum Block");
+  event.create("bronze_blend").displayName("Bronze Blend");
+  event.create("electrum_blend").displayName("Electrum Blend")
 
 });

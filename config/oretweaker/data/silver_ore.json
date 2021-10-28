@@ -1,12 +1,12 @@
 {
   "oreConfig": [
     {
-      "ore": "minecraft:iron_ore",
+      "ore": "kubejs:silver_ore",
       "filler": "minecraft:stone",
       "minY": 1,
       "maxY": 32,
-      "maxVeinSize": 4,
-      "spawnRate": 10.0,
+      "maxVeinSize": 8,
+      "spawnRate": 2.0,
       "biomeBlacklist": [],
       "biomeWhitelist": []
     }

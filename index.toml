@@ -6,7 +6,7 @@ hash = "bc22cd60f17d44327fb9142285dc068da055fe8436fe58be66aca6fd3608902c"
 
 [[files]]
 file = "config/create-common.toml"
-hash = "12aafd30b5537300064acf5bbff65a7edd89ebb42a20ad5c83839d37b9f292f1"
+hash = "234cb1d409c3d3456f17c93cf4ce90240665605d811d609ed49d60894b665cf5"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
@@ -77,6 +77,10 @@ file = "config/oretweaker/data/coal_ore.json"
 hash = "72ece77cb098dc2bf7ae18b74c4ecf576cc99aef2cd82e2de692ef13c9bf1704"
 
 [[files]]
+file = "config/oretweaker/data/copper_ore.json"
+hash = "6bd368bca4a8631ce927342b801b7c1d7428541936f6682488e984ebcfc5a701"
+
+[[files]]
 file = "config/oretweaker/data/diamond_ore.json"
 hash = "077d3f795d0d1d6dbb8336a3161267b49bb07650a69eddf1c2c04558dc58cd3b"
 
@@ -110,7 +114,7 @@ hash = "1fdb2674b746c51911c77f6e9e5c3c5139f16de7fe0dd9c53c45f2f4897ebe3f"
 
 [[files]]
 file = "config/oretweaker/data/iron_ore.json"
-hash = "9e2398ef50624edfeaeb9472de2e9940010a24fef7c7094f4029e92d1df38c78"
+hash = "58973ac1bdebb70a0d5793d09bb9c25d04d3f698ba5f4f6deb420e065b4a1ebc"
 
 [[files]]
 file = "config/oretweaker/data/lapis_ore.json"
@@ -133,92 +137,20 @@ file = "config/oretweaker/data/redstone_ore.json"
 hash = "59187dd1ede7366781f42cef54dc6b5fa5f635ad213d96a258e130d4a0b48c95"
 
 [[files]]
+file = "config/oretweaker/data/silver_ore.json"
+hash = "087ea6d53207bd9a3dc8c8ccef4efb37ab0e545b4d8925570d6b7fa156289cc1"
+
+[[files]]
 file = "config/oretweaker/data/soul_sand.json"
 hash = "874459d8d3c5295df179b42f89892daf309a935fe72c8094e266635410c852b2"
 
 [[files]]
+file = "config/oretweaker/data/tin_ore.json"
+hash = "8e8e50ba80c72bb5ef1cf5a991727f15a0795b96b68ab9a4d77ca527740875b5"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "a532d060add9ad36618d2897916d1d7bc6044b699949548eba0fa83de0b27ccf"
-
-[[files]]
-file = "config/repurposed_structures-forge/bastions.toml"
-hash = "88c62414c87a86e14abb8fdfd71477c65eca94e0b57ca10428d3db701d2fd090"
-
-[[files]]
-file = "config/repurposed_structures-forge/biome_dimension_allow_disallow_configs.json5"
-hash = "e85260d0e631b6512f5e09902e28b31c0830c620dec5938618cb251509dc9e0c"
-
-[[files]]
-file = "config/repurposed_structures-forge/cities.toml"
-hash = "01a3f9446f2df0443caa6351e697a1bda178925c93c8bcea08e606df1cf01e65"
-
-[[files]]
-file = "config/repurposed_structures-forge/dungeons.toml"
-hash = "a5f8bb337d94d0d170bf90e1a135e540b7334ad7fe58f18e37468f5f889ae9d4"
-
-[[files]]
-file = "config/repurposed_structures-forge/fortresses.toml"
-hash = "25da751b80b1e4d9cbc6d196fdce190d917f0f4124910f5efc427edc32d1e1c4"
-
-[[files]]
-file = "config/repurposed_structures-forge/igloos.toml"
-hash = "34bd11e3b77d5bfda406ab9a1a45153b10176296a5b095daac0e9b1c9fe3ef57"
-
-[[files]]
-file = "config/repurposed_structures-forge/mansions.toml"
-hash = "d492f28458104054ba9a986c2c532a64f52948fe17634b94189eec0cf4f596d1"
-
-[[files]]
-file = "config/repurposed_structures-forge/mineshafts.toml"
-hash = "70e387cbd31de7e6eddbea2d25198839bd40b10cce32a51baa8381fb570dd200"
-
-[[files]]
-file = "config/repurposed_structures-forge/modded_loot.toml"
-hash = "c21921f03014bdd061fc83803277218093d6b7c0a6175dd931d2d46045701a5f"
-
-[[files]]
-file = "config/repurposed_structures-forge/natural_mob_spawning_configs.json5"
-hash = "dd0f17af5435bae22dac85043fa4c1d4406507c038a072043a9ff6641a977c04"
-
-[[files]]
-file = "config/repurposed_structures-forge/outposts.toml"
-hash = "5d0571d9ae3f1def7fbbd0b14e82e00292a11c8045b435d4c5682a6dea5ece88"
-
-[[files]]
-file = "config/repurposed_structures-forge/pyramids.toml"
-hash = "53537e23290f3af46e81fb7778a87becf98ec6b1d9f1c8addfdf80dec1cd0c59"
-
-[[files]]
-file = "config/repurposed_structures-forge/ruined_portals.toml"
-hash = "a575e6196615c711546382553a04daab58816ce43f46f21af39905009cca082d"
-
-[[files]]
-file = "config/repurposed_structures-forge/ruins.toml"
-hash = "3b3ea238d26e8a4ee9308bea74841cd2f16e9883e781998619a71eac35b158b3"
-
-[[files]]
-file = "config/repurposed_structures-forge/shipwrecks.toml"
-hash = "2b1435261f3c6234b701cb661fc257b85e7359a7e990b71e76851a10470af0e3"
-
-[[files]]
-file = "config/repurposed_structures-forge/strongholds.toml"
-hash = "b80ca149755dc01145eb5719673e5758c3c73425a1865c8301fd284e73b7c524"
-
-[[files]]
-file = "config/repurposed_structures-forge/temples.toml"
-hash = "03b9b430afef733aedd63325735a5342549dd6fc1fc21f38a41c0c0e7714d64f"
-
-[[files]]
-file = "config/repurposed_structures-forge/villages.toml"
-hash = "1decb0c21878a52a47b863346ade27a42b709b5bf0024ffd547f7fc0b4bef9b7"
-
-[[files]]
-file = "config/repurposed_structures-forge/wells.toml"
-hash = "6cd0ae22d42c4163b52e532f6891bea052d6c86b36666f3a1b0d54d6af1f577d"
-
-[[files]]
-file = "config/repurposed_structures-forge/witch_huts.toml"
-hash = "60dd6f10ffd0c42055f939d027c9b2af350f561d4d4af7c9940bd2c4252b0f6a"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -505,6 +437,10 @@ file = "kubejs/data/beri/recipes/blast_steel.json"
 hash = "000df65755c64340f90110e86c7aaeb879c3ef229daa6f77e516f14125861897"
 
 [[files]]
+file = "kubejs/data/beri/recipes/bronze_blend.json"
+hash = "0aa555cd99b66d960e69192c2d5f655b340c511d07efa6aec56b0049597c8ec0"
+
+[[files]]
 file = "kubejs/data/beri/recipes/campfire_torch.json"
 hash = "80a6489655bbf88787df0a0e3ff9a58d04935276a513a6b48cf340da3668b747"
 
@@ -551,6 +487,10 @@ hash = "5cc6c13f342901c9b15fda244deb8d21166a920840c6c20f3807cf13d94e5088"
 [[files]]
 file = "kubejs/data/beri/recipes/crushing/raw_iron_block.json"
 hash = "25f252da5ed4edc3a9af0f373f4066407e3758da32e015615fb071626bbc6739"
+
+[[files]]
+file = "kubejs/data/beri/recipes/electrum_blend.json"
+hash = "bb09e375e7bb0f77ee53de24d1c3245262dbe7cd4840befd868556a511c17f07"
 
 [[files]]
 file = "kubejs/data/beri/recipes/ingot_tin.json"
@@ -690,7 +630,7 @@ hash = "225347a1179c001a66e0168b54a5b7996fcec6c0fa912893baf433530996652b"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
-hash = "f8214e832a0b029b8cbd702d639967342730678473cabdf8189b9939271b0d77"
+hash = "21189a9821acca24d1ba1d7bf7bd1374ae50cbe938a5b3e7cf809b6fca2e641c"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"

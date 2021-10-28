@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "forge:dusts/tin"
+        },
+        {
+            "tag": "forge:dusts/tin"
+        },
+        {
+            "tag": "forge:dusts/tin"
+        },
+        {
+            "tag": "forge:dusts/copper"
+        }
+    ],
+    "result": {
+        "item": "kubejs:bronze_blend",
+        "count": 4
+    }
+}
