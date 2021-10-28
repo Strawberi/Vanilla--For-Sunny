@@ -9,7 +9,7 @@ let metals = [
 
 onEvent("item.registry", event => {
     for (let [metal, ore, level] of metals) {
-        let name = metal[0].toUppercase() + metal.substr(1);
+        let name = metal[0].toUpperCase() + metal.substr(1);
         event.create(metal + "_ingot").displayName(name + " Ingot");
         event.create(metal + "_nugget").displayName(name + " Nugget");
         if (ore) {
@@ -22,7 +22,7 @@ onEvent("item.registry", event => {
 
 onEvent("block.registry", event => {
     for (let [metal, ore, level] of metals) {
-        let name = metal[0].toUppercase() + metal.substr(1);
+        let name = metal[0].toUpperCase() + metal.substr(1);
         event.create(metal + "_block").displayName(name + " Block").material("iron").harvestTool("pickaxe", level).requiresTool(true);
         if (ore) {
             event.create(metal + "_ore").displayName(name + " Ore").material("rock").harvestTool("pickaxe", level).requiresTool(true);
