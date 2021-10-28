@@ -1,0 +1,14 @@
+name = "Lootr"
+filename = "lootr-1.16.5-0.0.8.24.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3479/880/lootr-1.16.5-0.0.8.24.jar"
+hash-format = "murmur2"
+hash = "701533300"
+
+[update]
+[update.curseforge]
+file-id = 3479880
+project-id = 361276
+release-channel = "beta"

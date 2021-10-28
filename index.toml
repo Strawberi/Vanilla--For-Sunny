@@ -11,13 +11,43 @@ hash = "f129d70b91715f23de3b9508e681212572d380cc79cfa6f443161d23179719b5"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.toml"
+hash = "ed2dbc59edaa7a59d44ec39b9f95cae4f0a345060442a9b698e59ed549924525"
+metafile = true
+
+[[files]]
 file = "mods/controlling.toml"
 hash = "ae9af06325b442006bff5cfd58c73ead5170631400e7a604fda7c2c39ea6e6e6"
 metafile = true
 
 [[files]]
+file = "mods/ding.toml"
+hash = "50187a8fa97ea2cae84a2fe91ae593706a3da6c4eb07dedb64c5a4c84c819c7c"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.toml"
+hash = "0c850300c22c1e37bfd12eef0a6a8266b2123a1a6c39cd8ab2b14b5e22fc34b0"
+metafile = true
+
+[[files]]
+file = "mods/forgery.toml"
+hash = "8ffa49657e2d2d83cb7a0364fd1af28fec324b9807ca9209fd87f5c4fbbfb730"
+metafile = true
+
+[[files]]
+file = "mods/immersive-portals-for-forge.toml"
+hash = "e8a525729e695f806fbe8c5febb774ea30de8ab7c9fcfe9c7be45319dd2ef83d"
+metafile = true
+
+[[files]]
 file = "mods/jei.toml"
 hash = "88f024fd85ab5699cda4168f580d30be9699cf23fbf73e3508f69f87e797fc10"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.toml"
+hash = "2c722b1706c01ff5a74888d93359a75374531d82429d9d757352add16b2ac456"
 metafile = true
 
 [[files]]
@@ -31,8 +61,23 @@ hash = "f00fec8369ba3ac474b6b92d9ab4fc46f0d6d60728c1a5be4c1ea10b1fb05c91"
 metafile = true
 
 [[files]]
+file = "mods/lootr.toml"
+hash = "640fbe803e1d2721e204523a414cb7ee06a2a132de87e8ea8c7a6e358f29986a"
+metafile = true
+
+[[files]]
 file = "mods/ore-tweaker.toml"
 hash = "e8c6bf9e8c840c74f17259955588113ddf72a1df551a557a02052c4cb49b09b0"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.toml"
+hash = "1011ba5c105306e0e47bf9a112ae8ff0edc8018729c91d80f97cb06b682200c3"
+metafile = true
+
+[[files]]
+file = "mods/quark.toml"
+hash = "4f5b37c235a7b6b8ff54800cc22220647f5c8430dcf8df240483e8bde3837f5f"
 metafile = true
 
 [[files]]
@@ -41,6 +86,31 @@ hash = "384c2d41000d89af8dbc6b004fc27a0a3f6e76b2863658b2c50c66c994fc281d"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures.toml"
+hash = "06603c88fbc80e5c519d1a4f076704db58ed2a394b7508e88b39fec1e46eb2b7"
+metafile = true
+
+[[files]]
 file = "mods/rhino.toml"
 hash = "8b9dd06fbb8de11ffcb5166ddb6865320d6d8e6d50bfa23b3f4c113401cad883"
+metafile = true
+
+[[files]]
+file = "mods/the-one-probe.toml"
+hash = "523bb49c4aa144e8e854533968725d75953591c86b57e4542abb45459d669527"
+metafile = true
+
+[[files]]
+file = "mods/uppers.toml"
+hash = "487cf799509f63c58433ab1e8459753e8e2d907892017710620c2e7c1382c610"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-core.toml"
+hash = "e83daabe10b271fa67aea098f034ce2c83162c6f00602f4b25c34b8a5bab4083"
+metafile = true
+
+[[files]]
+file = "mods/valhelsia-structures.toml"
+hash = "fe61e0325e4d5241bdabc9df36b11c1a737fe73696ba67325ffc339919fb1aea"
 metafile = true
