@@ -565,6 +565,10 @@ file = "kubejs/data/farmersdelight/recipes/wheat_dough.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "kubejs/data/forge/tags/items/dusts/coal_coke.json"
+hash = "97bf178d512bca9c964f6276eb76124b5375e83c6c0d74200e3d20abfcdb77ce"
+
+[[files]]
 file = "kubejs/data/forge/tags/items/dusts/silver.json"
 hash = "dcd3a62a1d3e894c9e054c1504d925899593803658ac14c7938b22c2b74ea5eb"
 
@@ -610,7 +614,7 @@ hash = "18cb66ee445c9da5512fc3699310d31b99dc13175274f8861b8ad41955aa803a"
 
 [[files]]
 file = "kubejs/startup_scripts/newmetals.js"
-hash = "010de612a508e4e3a4b236e1fc89c97fba5a02878b6dc3cd700979c036cfe0ff"
+hash = "efde4946e4e2b2220dc31314fe3a166448cebe2515dfb2b97a75de15782c85de"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"

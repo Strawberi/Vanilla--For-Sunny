@@ -13,9 +13,9 @@ onEvent("item.registry", event => {
         event.create(metal + "_ingot").displayName(name + " Ingot");
         event.create(metal + "_nugget").displayName(name + " Nugget");
         if (ore) {
-            event.create("raw_" + metal).displayName("Raw " + name)
+            event.create("raw_" + metal).displayName("Raw " + name);
         } else {
-            event.create(metal + "_blend").displayName(name + " Blend")
+            event.create(metal + "_blend").displayName(name + " Blend");
         }
     }
 });
