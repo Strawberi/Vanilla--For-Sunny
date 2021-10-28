@@ -1,1 +1,46 @@
 hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "0e5929448f3105c10e8df986c97e9b1c2192cbcd6165c31c3fbcdd8103e3c9be"
+metafile = true
+
+[[files]]
+file = "mods/architectury-forge.toml"
+hash = "f129d70b91715f23de3b9508e681212572d380cc79cfa6f443161d23179719b5"
+metafile = true
+
+[[files]]
+file = "mods/controlling.toml"
+hash = "ae9af06325b442006bff5cfd58c73ead5170631400e7a604fda7c2c39ea6e6e6"
+metafile = true
+
+[[files]]
+file = "mods/jei.toml"
+hash = "88f024fd85ab5699cda4168f580d30be9699cf23fbf73e3508f69f87e797fc10"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.toml"
+hash = "10533478b58457571fa77b190d3497577b519c8cf9edd49689ef4035eb3f6273"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-forge.toml"
+hash = "f00fec8369ba3ac474b6b92d9ab4fc46f0d6d60728c1a5be4c1ea10b1fb05c91"
+metafile = true
+
+[[files]]
+file = "mods/ore-tweaker.toml"
+hash = "e8c6bf9e8c840c74f17259955588113ddf72a1df551a557a02052c4cb49b09b0"
+metafile = true
+
+[[files]]
+file = "mods/rawore.toml"
+hash = "384c2d41000d89af8dbc6b004fc27a0a3f6e76b2863658b2c50c66c994fc281d"
+metafile = true
+
+[[files]]
+file = "mods/rhino.toml"
+hash = "8b9dd06fbb8de11ffcb5166ddb6865320d6d8e6d50bfa23b3f4c113401cad883"
+metafile = true

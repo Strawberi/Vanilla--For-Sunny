@@ -1,0 +1,14 @@
+name = "RawOre"
+filename = "RawOre-3.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3467/592/RawOre-3.0.2.jar"
+hash-format = "murmur2"
+hash = "1623519088"
+
+[update]
+[update.curseforge]
+file-id = 3467592
+project-id = 470655
+release-channel = "beta"
