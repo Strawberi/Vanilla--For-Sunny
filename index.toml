@@ -614,7 +614,7 @@ hash = "18cb66ee445c9da5512fc3699310d31b99dc13175274f8861b8ad41955aa803a"
 
 [[files]]
 file = "kubejs/startup_scripts/newmetals.js"
-hash = "4842296508e34e512c5951b067bf2cc449aa44304fc8f15864a2226e61d3da86"
+hash = "6f07976f21daac7c5b05f67ad031516c3bd6eca85578f3995018fe33bc644080"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
