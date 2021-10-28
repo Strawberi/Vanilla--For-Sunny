@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:campfire_cooking",
+    "ingredient": {
+        "item": "kubejs:primitive_coke_oven"
+    },
+    "result": "kubejs:coal_coke",
+    "experience": 0.1,
+    "cookingtime": 1200
+}

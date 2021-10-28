@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "AAA",
+        "SPS"
+    ],
+    "key": {
+        "#": {
+            "item": "create:dough"
+        },
+        "A": {
+            "item": "minecraft:apple"
+        },
+        "S": {
+            "item": "minecraft:sugar"
+        },
+        "P": {
+            "item": "farmersdelight:pie_crust"
+        }
+    },
+    "result": {
+        "item": "minecraft:apple_pie",
+        "count": 1
+    }
+}

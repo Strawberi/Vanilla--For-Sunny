@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " # ",
+        "C#C",
+        " C "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:coal"
+        },
+        "C": {
+            "item": "minecraft:clay_ball"
+        }
+    },
+    "result": {
+        "item": "kubejs:primitive_coke_oven",
+        "count": 1
+    }
+}
