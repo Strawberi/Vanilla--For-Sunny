@@ -11,8 +11,18 @@ hash = "f129d70b91715f23de3b9508e681212572d380cc79cfa6f443161d23179719b5"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.toml"
+hash = "bab8fbf8b378a736f86250fdc5a3cc41dda856d6baa7c7a4d8479050f8fed8ae"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.toml"
 hash = "ed2dbc59edaa7a59d44ec39b9f95cae4f0a345060442a9b698e59ed549924525"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.toml"
+hash = "d5a498a12fbc5750d40be58c06f44ccde5ae5a847c391d577bcd544724f446dc"
 metafile = true
 
 [[files]]
@@ -21,8 +31,23 @@ hash = "ae9af06325b442006bff5cfd58c73ead5170631400e7a604fda7c2c39ea6e6e6"
 metafile = true
 
 [[files]]
+file = "mods/create.toml"
+hash = "c9b94c89114636e59eb9633aee278d9355fb0b44c3e77d76b387ed713f8da505"
+metafile = true
+
+[[files]]
+file = "mods/curios.toml"
+hash = "6863c605825840c601d9c8aea1456c5dbbd613b9037e7b6fe26e256748cbadfb"
+metafile = true
+
+[[files]]
 file = "mods/ding.toml"
 hash = "50187a8fa97ea2cae84a2fe91ae593706a3da6c4eb07dedb64c5a4c84c819c7c"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.toml"
+hash = "7647160ec1f3236030c16fbb2ffc451e51cedaf05219dca7c180430406376d0e"
 metafile = true
 
 [[files]]
@@ -31,8 +56,18 @@ hash = "0c850300c22c1e37bfd12eef0a6a8266b2123a1a6c39cd8ab2b14b5e22fc34b0"
 metafile = true
 
 [[files]]
+file = "mods/flywheel.toml"
+hash = "7f7faf768330a6fd47e6dc9da35de6f5a5a97d109fcfd2e9f1b5323024d1ac4c"
+metafile = true
+
+[[files]]
 file = "mods/forgery.toml"
 hash = "8ffa49657e2d2d83cb7a0364fd1af28fec324b9807ca9209fd87f5c4fbbfb730"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.toml"
+hash = "dc487f5c1bb8c6ef7b1962584456005f0536d055ddad42a938c23f4f1693f4d3"
 metafile = true
 
 [[files]]
@@ -56,6 +91,11 @@ hash = "10533478b58457571fa77b190d3497577b519c8cf9edd49689ef4035eb3f6273"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.toml"
+hash = "67668a78c0e9b5c40099cf8b56f7fa3ec28a77150269a9d745f2fb066cdd50e3"
+metafile = true
+
+[[files]]
 file = "mods/kubejs-forge.toml"
 hash = "f00fec8369ba3ac474b6b92d9ab4fc46f0d6d60728c1a5be4c1ea10b1fb05c91"
 metafile = true
@@ -68,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/ore-tweaker.toml"
 hash = "e8c6bf9e8c840c74f17259955588113ddf72a1df551a557a02052c4cb49b09b0"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.toml"
+hash = "1bda7dbf2a15134727be5c4c9b886d68ed7f383bbbe39e2ce2dac78103f0cbac"
 metafile = true
 
 [[files]]
@@ -93,6 +138,16 @@ metafile = true
 [[files]]
 file = "mods/rhino.toml"
 hash = "8b9dd06fbb8de11ffcb5166ddb6865320d6d8e6d50bfa23b3f4c113401cad883"
+metafile = true
+
+[[files]]
+file = "mods/spartan-shields.toml"
+hash = "33d934a1c704cc32319ee03e1e4713f3fcb6e238e8537c546e8336628fd01eee"
+metafile = true
+
+[[files]]
+file = "mods/spartan-weaponry.toml"
+hash = "a6aa46663fff30c310e084a55f4d6ccc47e78c167f42588286de7c67faa59901"
 metafile = true
 
 [[files]]
