@@ -33,14 +33,20 @@ onEvent("block.registry", event => {
 onEvent("item.tags", event => {
     for (let [metal, ore, level] of metals) {
         let item = "kubejs:" + metal;
+        event.add("forge:ingots", item + "_ingot");
+        event.add("forge:nuggets", item + "_nugget");
+        event.add("forge:storage_blocks", item + "_block");
         event.add("forge:ingots/" + metal , item + "_ingot");
         event.add("forge:nuggets/" + metal, item + "_nugget");
         event.add("forge:storage_blocks/" + metal, item + "_block");
         if (ore) {
             event.add("forge:dusts/" + metal, "kubejs:raw_" + metal);
             event.add("forge:ores/" + metal, item + "_ore");
+            event.add("forge:dusts", "kubejs:raw_" + metal);
+            event.add("forge:ores", item + "_ore");
         } else {
             event.add("forge:dusts/" + metal, item + "_blend");
+            event.add("forge:dusts", item + "_blend");
         }
     }
 });
