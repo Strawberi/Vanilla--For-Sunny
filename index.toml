@@ -433,26 +433,6 @@ file = "kubejs/config/common.properties"
 hash = "f196a8b88c4d0dcdb2f658cb080aa7d472a0bbfc95defb4db69083486a49bb4b"
 
 [[files]]
-file = "kubejs/data/beri/recipes/blast_bronze.json"
-hash = "2593bcea22c95c5f0941fb3a74378e85de3373484fd532abb99bf4c90ace3418"
-
-[[files]]
-file = "kubejs/data/beri/recipes/blast_electrum.json"
-hash = "97d72b703942219861bde02e92d9620f36b364a4d7c3e207374e051e17554dc1"
-
-[[files]]
-file = "kubejs/data/beri/recipes/blast_steel.json"
-hash = "000df65755c64340f90110e86c7aaeb879c3ef229daa6f77e516f14125861897"
-
-[[files]]
-file = "kubejs/data/beri/recipes/blast_tin.json"
-hash = "f2b77a389fdefc6b8e4a9518824d9c1b589dada66cd46998956d39362bec649f"
-
-[[files]]
-file = "kubejs/data/beri/recipes/bronze_blend.json"
-hash = "0aa555cd99b66d960e69192c2d5f655b340c511d07efa6aec56b0049597c8ec0"
-
-[[files]]
 file = "kubejs/data/beri/recipes/campfire_torch.json"
 hash = "80a6489655bbf88787df0a0e3ff9a58d04935276a513a6b48cf340da3668b747"
 
@@ -501,18 +481,6 @@ file = "kubejs/data/beri/recipes/crushing/raw_iron_block.json"
 hash = "25f252da5ed4edc3a9af0f373f4066407e3758da32e015615fb071626bbc6739"
 
 [[files]]
-file = "kubejs/data/beri/recipes/electrum_blend.json"
-hash = "bb09e375e7bb0f77ee53de24d1c3245262dbe7cd4840befd868556a511c17f07"
-
-[[files]]
-file = "kubejs/data/beri/recipes/ingot_tin.json"
-hash = "78dd249a0c735dfd442680a1fa8717044ce5c79785f34d76494a387d15faad17"
-
-[[files]]
-file = "kubejs/data/beri/recipes/ingot_tin_blasting.json"
-hash = "f0e333cd193a5aa0d10c67455878f384c2a391dcb49e642204ccb021afecf3e1"
-
-[[files]]
 file = "kubejs/data/beri/recipes/milling/coal_coke.json"
 hash = "2656ff060983c9359b74481ec04cd2177ca2458401ffa22430e60dfb17ef3cd1"
 
@@ -547,10 +515,6 @@ hash = "1c09f5f590926b43e9940d531e4b02312593915ac577f1bbe3756d9ed9297eb6"
 [[files]]
 file = "kubejs/data/beri/recipes/slimey_smelty.json"
 hash = "f62fd71be93e257ead36015d10502cd4bc54653df6b5ed8554dbefd348cb6cfb"
-
-[[files]]
-file = "kubejs/data/beri/recipes/steel_blend.json"
-hash = "9f3b8defcb2d480c0778ea79fa9163059768b3d6795063eed40dc97295bd2bf9"
 
 [[files]]
 file = "kubejs/data/create/loot_tables/blocks/copper_ore.json"
@@ -646,7 +610,7 @@ hash = "4feb60069d11fc6292530329e16a9e4c92993a41491f656c4cf15d8d7d26d374"
 
 [[files]]
 file = "kubejs/startup_scripts/newmetals.js"
-hash = "c057092254c7b92fc1d48e7353bccf402123ada2c04111141bc01aa4ae33ba85"
+hash = "010de612a508e4e3a4b236e1fc89c97fba5a02878b6dc3cd700979c036cfe0ff"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"

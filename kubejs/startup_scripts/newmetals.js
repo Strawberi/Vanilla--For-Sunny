@@ -1,9 +1,9 @@
 let metals = [
 //  Name            Has ore     Mining Level
-    ["tin",         true,       0]
-    ["silver",      true,       1]
-    ["electrum",    false,      2]
-    ["bronze",      false,      2]
+    ["tin",         true,       0],
+    ["silver",      true,       1],
+    ["electrum",    false,      2],
+    ["bronze",      false,      2],
     ["steel",       false,      3]
 ];
 
