@@ -1,3 +1,3 @@
-ondeviceorientation("recipes", event => {
+onEvent("recipes", event => {
     event.remove({output: "#create:crushed_ores"})
-})
+});
