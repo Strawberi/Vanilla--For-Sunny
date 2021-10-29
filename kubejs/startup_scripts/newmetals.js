@@ -71,16 +71,16 @@ onEvent("recipes", event => {
         event.blasting("1x " + ingot, "#forge:ores/" + metal);
 
         if (ore) {
-            event.createMilling([
+            event.createMilling(output[
                 "1x kubejs:raw_" + metal,
                 Item.of("1x kubejs:raw_" + metal).withChance(0.5)
-            ], item + "_ore");
-            event.createCrushing([
+            ], input[item + "_ore"]);
+            event.createCrushing(ouput[
                 "1x kubejs:raw_" + metal,
                 Item.of("1x kubejs:raw_" + metal).withChance(0.5),
                 Item.of("1x kubejs:raw_" + metal).withChance(0.5),
                 Item.of("1x kubejs:raw_" + metal).withChance(0.5)
-            ], item + "_ore");
+            ], input[item + "_ore"]);
         }
     }
 
