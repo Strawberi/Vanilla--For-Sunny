@@ -69,7 +69,7 @@ onEvent("recipes", event => {
 
         event.blasting("1x " + ingot, "#forge:dusts/" + metal);
         event.blasting("1x " + ingot, "#forge:ores/" + metal);
-
+        /*
         if (ore) {
             event.createMilling(output[
                 "1x kubejs:raw_" + metal,
@@ -82,6 +82,7 @@ onEvent("recipes", event => {
                 Item.of("1x kubejs:raw_" + metal).withChance(0.5)
             ], input[item + "_ore"]);
         }
+        */
     }
 
     event.shapeless("4x kubejs:bronze_blend", ["#forge:dusts/tin", "#forge:dusts/tin", "#forge:dusts/tin", "#forge:dusts/copper"]);
