@@ -469,36 +469,12 @@ file = "kubejs/data/beri/recipes/cook_coke_at_furnace.json"
 hash = "51c00320a480a2c63ebd5bf3d756e1e8b15f57ce4c97e4890e5f3fd0ce43a8fd"
 
 [[files]]
-file = "kubejs/data/beri/recipes/crushing/raw_copper_block.json"
-hash = "fb1edb8ec0614198fb18dbbdb3a6fb00d8ad549afbc36c2be8dfe4810d891d92"
-
-[[files]]
-file = "kubejs/data/beri/recipes/crushing/raw_gold_block.json"
-hash = "5cc6c13f342901c9b15fda244deb8d21166a920840c6c20f3807cf13d94e5088"
-
-[[files]]
-file = "kubejs/data/beri/recipes/crushing/raw_iron_block.json"
-hash = "25f252da5ed4edc3a9af0f373f4066407e3758da32e015615fb071626bbc6739"
-
-[[files]]
 file = "kubejs/data/beri/recipes/milling/coal_coke.json"
 hash = "2656ff060983c9359b74481ec04cd2177ca2458401ffa22430e60dfb17ef3cd1"
 
 [[files]]
 file = "kubejs/data/beri/recipes/milling/coal_coke_block.json"
 hash = "0c2bbd3482b4ec7dcacb4d3cd6e155d13edbf670a12b6278b903fdf6435f4afc"
-
-[[files]]
-file = "kubejs/data/beri/recipes/milling/raw_copper_block.json"
-hash = "52737c3ac4c1a02a5addffc6402152f4527f0ac8c6c3afdfc9905ca962311814"
-
-[[files]]
-file = "kubejs/data/beri/recipes/milling/raw_gold_block.json"
-hash = "954a6acc8c2c523e0a1d3174fd95b330f18bf21cf92b7d5a89a8d388cd50a74c"
-
-[[files]]
-file = "kubejs/data/beri/recipes/milling/raw_iron_block.json"
-hash = "ebf0223a522ec8a0386953592ec7d48a120a9ed9d6ea76b9001a1097368be3e5"
 
 [[files]]
 file = "kubejs/data/beri/recipes/name_tag.json"
@@ -525,8 +501,40 @@ file = "kubejs/data/create/loot_tables/blocks/zinc_ore.json"
 hash = "8829da85d9a9e23f4fb25495743d54e13103772b6c12eee671d2ba94e68ea7ff"
 
 [[files]]
+file = "kubejs/data/create/recipes/crushing/copper_ore.json"
+hash = "1aeb839bd5b1b1a69dbd8c199f1206e634ed94cc8261c7c0677a71956d6fc365"
+
+[[files]]
+file = "kubejs/data/create/recipes/crushing/gold_ore.json"
+hash = "2687f1f5048aea4b8ce78af5e67719a8fefbed413208a76577a3f1e84d64d9f8"
+
+[[files]]
+file = "kubejs/data/create/recipes/crushing/iron_ore.json"
+hash = "5d3d5bb2b4e8c953fb8c164fa6f711c6943affcc14eaa54e39512b8fc39b7e20"
+
+[[files]]
+file = "kubejs/data/create/recipes/crushing/zinc_ore.json"
+hash = "f0705ec435ca2a4fdba90a5b94d7d795e938eb7bfad833df997ce8e21fe2184b"
+
+[[files]]
+file = "kubejs/data/create/recipes/milling/copper_ore.json"
+hash = "1fb0bf452723214c57473aacec2bbf8cf98a85119618d0db4b586c61dd2d4202"
+
+[[files]]
+file = "kubejs/data/create/recipes/milling/gold_ore.json"
+hash = "9265ed377b5918582c6dd6deb377b310f4f85c6fdcb7fb76ada67eebaaaab678"
+
+[[files]]
+file = "kubejs/data/create/recipes/milling/iron_ore.json"
+hash = "f443942c7bd6290eeb3d23ecc96557f2330bf56f3fd1b4183ac67fa512d15a00"
+
+[[files]]
 file = "kubejs/data/create/recipes/milling/wheat.json"
 hash = "8d1921cb8a14fac5508946f3512264b839a5b37be272397ce1bd15185342fa1e"
+
+[[files]]
+file = "kubejs/data/create/recipes/milling/zinc_ore.json"
+hash = "6c6f2487994efc39c01a68bf2cfc5674267d122678811a873786878b9f380a78"
 
 [[files]]
 file = "kubejs/data/create/tags/blocks/fan_transparent.json"
@@ -615,6 +623,10 @@ hash = "18cb66ee445c9da5512fc3699310d31b99dc13175274f8861b8ad41955aa803a"
 [[files]]
 file = "kubejs/startup_scripts/newmetals.js"
 hash = "6f07976f21daac7c5b05f67ad031516c3bd6eca85578f3995018fe33bc644080"
+
+[[files]]
+file = "kubejs/startup_scripts/remove_crushed_ores.js"
+hash = "cda0935895a549a8195284dbe167c8776944999004712418535d880d6383fea9"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"

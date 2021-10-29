@@ -1,0 +1,27 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "tag": "forge:ores/copper"
+    }
+  ],
+  "results": [
+    {
+      "item": "rawore:raw_copper"
+    },
+    {
+      "item": "rawore:raw_copper",
+      "chance": 0.5
+    }
+  ],
+  "processingTime": 350,
+  "conditions": [
+    {
+      "value": {
+        "tag": "forge:ores/copper",
+        "type": "forge:tag_empty"
+      },
+      "type": "forge:not"
+    }
+  ]
+}
