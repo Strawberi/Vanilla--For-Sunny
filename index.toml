@@ -798,7 +798,7 @@ hash = "225347a1179c001a66e0168b54a5b7996fcec6c0fa912893baf433530996652b"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
-hash = "18cb66ee445c9da5512fc3699310d31b99dc13175274f8861b8ad41955aa803a"
+hash = "672dfb737f742b01de8535b17d6fba67ca3010671a4c05996353b5da0fe59a11"
 
 [[files]]
 file = "kubejs/startup_scripts/newmetals.js"
@@ -806,7 +806,7 @@ hash = "0c21410ef56937bf72e1c45f17f83318a109f0bffb36f8eca03c8e9a5374c4f1"
 
 [[files]]
 file = "kubejs/startup_scripts/newtools.js"
-hash = "91294811b5dc85a20942d784bd8c930cd9087678bad4b8e0fcefd4d0ad1cc5eb"
+hash = "c6184fb12a281948ec535f3bfcdf281a14c4973769e41b251890aab466b7ab6f"
 
 [[files]]
 file = "kubejs/startup_scripts/remove_crushed_ores.js"

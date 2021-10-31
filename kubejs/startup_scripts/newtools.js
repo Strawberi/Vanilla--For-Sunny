@@ -1,4 +1,4 @@
-let metals = [
+let metalstools = [
 //  Name           Level    Speed       Echantability   Durability  Damage
     ["tin",        1,        6,          9,              32,        1],
     ["silver",     1,        6,          22,             32,        0],
@@ -9,7 +9,7 @@ let metals = [
 ];
 
 onEvent('item.registry.tool_tiers', event => {
-    for (let [metal, lvl, spd, ech, dura, dmg] of metals) {
+    for (let [metal, lvl, spd, ech, dura, dmg] of metalstools) {
         event.add(metal, tier => {
             tier.uses = dura
             tier.speed = spd
@@ -22,7 +22,7 @@ onEvent('item.registry.tool_tiers', event => {
   });
 
 onEvent("item.registry", event => {
-    for (let [metal, lvl, spd, ech, dura, dmg] of metals) {
+    for (let [metal, lvl, spd, ech, dura, dmg] of metalstools) {
         let name = metal[0].toUpperCase() + metal.substr(1);
         event.create(metal + "_pickaxe")
             .type("pickaxe")
