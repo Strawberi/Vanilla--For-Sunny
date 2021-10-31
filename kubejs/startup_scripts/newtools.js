@@ -27,22 +27,27 @@ onEvent("item.registry", event => {
         event.create(metal + "_pickaxe")
             .type('pickaxe')
             .displayName(name + " Pickaxe")
-            .tier(metal);
+            .tier(metal)
+            .maxDamage(dura);
         event.create(metal + "_axe")
             .type('axe')
             .displayName(name + " Axe")
-            .tier(metal);
+            .tier(metal)
+            .maxDamage(dura);
         event.create(metal + "_shovel")
             .type('shovel')
             .displayName(name + " Shovel")
-            .tier(metal);
+            .tier(metal)
+            .maxDamage(dura);
         event.create(metal + "_hoe")
             .type('hoe')
             .displayName(name + " Hoe")
-            .tier(metal);
+            .tier(metal)
+            .maxDamage(dura);
         event.create(metal + "_sword")
             .type('sword')
             .displayName(name + " Sword")
-            .tier(metal);
+            .tier(metal)
+            .maxDamage(dura + 1);
     }
 });
