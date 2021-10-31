@@ -51,3 +51,19 @@ onEvent("item.registry", event => {
             .maxDamage(dura + 1);
     }
 });
+
+onEvent("recipes", event => {
+    for (let [metal, lvl, spd, ech, dura, dmg] of metalstools) {
+        let ingot = "kubejs:" + metal + "_ingot";
+        let pick = "kubejs:" + metal + "_pickaxe";
+        let axe = "kubejs:" + metal + "_axe";
+        let shovel = "kubejs:" + metal + "_shovel";
+        let hoe = "kubejs:" + metal + "_hoe";
+        let sword = "kubejs:" + metal + "_sword";
+        event.shaped("1x " + pick, ["MMM", " S ", " S "], {M: ingot, S: "#forge:rods/wooden"});
+        event.shaped("1x " + axe, ["MM", "MS", " S"], {M: ingot, S: "#forge:rods/wooden"});
+        event.shaped("1x " + shovel, ["M", "S", "S"], {M: ingot, S: "#forge:rods/wooden"});
+        event.shaped("1x " + hoe, ["MM", " S", " S"], {M: ingot, S: "#forge:rods/wooden"});
+        event.shaped("1x " + sword, ["M", "M", "S"], {M: ingot, S: "#forge:rods/wooden"});
+    }
+});
