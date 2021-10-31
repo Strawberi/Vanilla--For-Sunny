@@ -12,7 +12,7 @@ onEvent("item.registry", event => {
         let name = metal[0].toUpperCase() + metal.substr(1);
         event.create(metal + "_ingot").displayName(name + " Ingot");
         event.create(metal + "_nugget").displayName(name + " Nugget");
-        if (ore) {
+        if (ore == true) {
             event.create("raw_" + metal).displayName("Raw " + name);
         } else {
             event.create(metal + "_blend").displayName(name + " Blend");
@@ -24,7 +24,7 @@ onEvent("block.registry", event => {
     for (let [metal, ore, level] of metals) {
         let name = metal[0].toUpperCase() + metal.substr(1);
         event.create(metal + "_block").displayName(name + " Block").material("iron").harvestTool("pickaxe", level).requiresTool(true);
-        if (ore) {
+        if (ore == true) {
             event.create(metal + "_ore").displayName(name + " Ore").material("rock").harvestTool("pickaxe", level).requiresTool(true);
         }
     }
@@ -39,7 +39,7 @@ onEvent("item.tags", event => {
         event.add("forge:ingots/" + metal , item + "_ingot");
         event.add("forge:nuggets/" + metal, item + "_nugget");
         event.add("forge:storage_blocks/" + metal, item + "_block");
-        if (ore) {
+        if (ore == true) {
             event.add("forge:dusts/" + metal, "kubejs:raw_" + metal);
             event.add("forge:ores/" + metal, item + "_ore");
             event.add("forge:dusts", "kubejs:raw_" + metal);
@@ -100,7 +100,7 @@ onEvent("block.loot_tables", event => {
         let oreb = "kubejs:" + metal + "_ore";
         let raw = "kubejs:raw_" + metal;
 
-        if (ore) {
+        if (ore == true) {
             event.build(oreb, table => {
                 table.pool(pool => {
                     pool.rolls = 1;

@@ -802,7 +802,7 @@ hash = "672dfb737f742b01de8535b17d6fba67ca3010671a4c05996353b5da0fe59a11"
 
 [[files]]
 file = "kubejs/startup_scripts/newmetals.js"
-hash = "0c21410ef56937bf72e1c45f17f83318a109f0bffb36f8eca03c8e9a5374c4f1"
+hash = "5a1c4f68c89bec8725cf692049326ceee5ae652d3587d60a609b2f61d2296073"
 
 [[files]]
 file = "kubejs/startup_scripts/newtools.js"
