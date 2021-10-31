@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "CCC",
+        "CCC",
+        "CCC"
+    ],
+    "key": {
+        "C": {
+            "item": "kubejs:coal_coke"
+        }
+    },
+    "result": {
+        "item": "kubejs:coal_coke_block",
+        "count": 1
+    }
+}

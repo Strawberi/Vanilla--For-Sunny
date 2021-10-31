@@ -157,6 +157,14 @@ file = "kubejs/README.txt"
 hash = "35e3c6ff70236e1bb6bf1f12fdbabc9a3e9941cb4e3c3567b5c697d34b210b36"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/bronze_block.png"
+hash = "6b9cbcff66437baac2a3e7893c3f7c36e0be5eeff1b1ba59101e88912a72b23b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/coal_coke_block.png"
+hash = "e9f9df2579e217fa9ffcc8f9d3063ebd323a5848c2d05dbc9806ef644f93856e"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/copper_gravel.png"
 hash = "19ac6c971a0ddaec7c9433ad8e99d4302426dcd3b84d4201f65cf7a6e8cfa9fe"
 
@@ -165,8 +173,24 @@ file = "kubejs/assets/kubejs/textures/block/copper_sand.png"
 hash = "438abc3d6d885e1353531bdf25b6f871393b5231daf8261d06928eaac78e431e"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/electrum_block.png"
+hash = "9168ecc23549255f47ac0a499a682d8d087d034a3bf70ace5b2b84447fbe7183"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/silver_block.png"
+hash = "90105208837a4e263b7b396df0ac5ef589e7cc49b727d0d050cf06f67c319749"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/silver_ore.png"
+hash = "f6db5a1a56051ccb33372fd1cb85539b402108255bc18abafb8ace0f94eabe55"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/tin_block.png"
+hash = "a8ab17916500bffec5fb4dad332077fa7ee5c9394e3096a70fbd2a3e07581646"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/tin_ore.png"
@@ -189,6 +213,34 @@ file = "kubejs/assets/kubejs/textures/item/brimstone.png"
 hash = "484f55671d5fb6f4f82f565b1b393a08a5f0064853dd6289845d6aff221af05b"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/bronze_axe.png"
+hash = "dbabc27bc49875f64a65751b74bce49c55a01afd2fd6aebf71671bf1a31e928f"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/bronze_hoe.png"
+hash = "4bd936c4c810e74c4d7c7620da8c879b6440c1c630dd71ada2d37f937a97caa2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/bronze_ingot.png"
+hash = "203943cec7d2608249b9dfcdecd2e63de8f7087d8b900e11cd4a955016163000"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/bronze_nugget.png"
+hash = "fb9cf9e89f7f3e622124675303432a367861067fa5f16164518cc079dd8b5a6c"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/bronze_pickaxe.png"
+hash = "9fd234554fd99a9e237fb0c61339457f95cb05721fc73cb847fd339b6542a822"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/bronze_shovel.png"
+hash = "c831bed0c47134149cc0b63ecb3b4bf8c66acaf54982858dc5a08e3232f3b0d6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/bronze_sword.png"
+hash = "d0b16b9a17845d6720d6c0e16876fc0c7d0072c3e36384c09518658ab1c9329e"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/ceramic_hoe.png"
 hash = "9d41c0b40219c917ab89df7b47e25494d587891352c94b3ed359974484412fc4"
 
@@ -199,6 +251,10 @@ hash = "1bb3f061665b26cc0510a2a0d2eb310a58f761269ad05f187269ac8a7e9e2fcf"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/ceramic_sword.png"
 hash = "202a4dc15d279a3ada0391b2c704fc82ec405d299f1838d65a2b53bbe3eade31"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/coal_coke.png"
+hash = "ea1759f746e6b05b0e2ce884c95c2b703628d79c972f03fbeee84fdd2e969b33"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/coal_dust.png"
@@ -218,23 +274,23 @@ hash = "2823e94d21b19b987d90678810d7b57a028f3d3eb93723c60c96b4757518619f"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/copper_axe.png"
-hash = "0a280981d18134a0357a05eba3435d40e57ae0ddb74af62dab775422cacaae62"
+hash = "1a3961c783d891abe0f8bac2ef93e283ad2db552f072713a8d47e5c235a0b90d"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/copper_hoe.png"
-hash = "d791669a9e5da2d610eac548345793854c3262d1a0ac35b2c0603b0a58f412c1"
+hash = "53cce531b9e6c4a9e5805216328aff8b040b3e6574019debc6c32d8fbeab647c"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/copper_pickaxe.png"
-hash = "ae806bfedb59b635ea3e3650b2733798d330a03dc06f6a6dea127f4a91c29749"
+hash = "4108248ccded5e42fdb39560f4037bc889e421744c01d7333429551bf161cfb9"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/copper_shovel.png"
-hash = "2b255066ba6fc77893be3fbccd71570aae503c80377b7dc1c03b9c4d3ebc9054"
+hash = "2d181a6125ab42629469e45103c748385e2dceeb8536bb4eb0496c9ea1420f0f"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/copper_sword.png"
-hash = "9c9c7ba4d10350d3274dc6121483daaba15f831a102736776811230747145336"
+hash = "c05b6f61efa2c79912aacda2e4ea38cbc2aac7c092af5bd713a8cdaa73da7869"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/crude_iron_pickaxe.png"
@@ -259,6 +315,34 @@ hash = "4f08b6e96118b0c3d7ceb8a59658475173d25ab1e84dd88ccb31c9a11a80a265"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/dolomite.png"
 hash = "a6dbbe006531a54a716c120cbeb4d556e63d9c6bc0bd84fc652107a658c83e70"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/electrum_axe.png"
+hash = "da132a21922625f1550b438a4de212d85e16c3d8597bec6ba8f29f5bae10a0c6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/electrum_hoe.png"
+hash = "c918474a33a9b11687318d57ee68d54aa9efa0bb33a45495ba456a304e79e463"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/electrum_ingot.png"
+hash = "9f8cc25222b0d0a59f2e21480a67c62269948fb622a2cc42c7daf209537af668"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/electrum_nugget.png"
+hash = "3fe58f526bbd7a76fba918f483ba269877861391f8e1939788c7212c5e041a2b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/electrum_pickaxe.png"
+hash = "4f192305af3db7ccaf69b2f0260d1a14ea2628d4beef4b559604d73640e262a6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/electrum_shovel.png"
+hash = "7b507127721cdff50cc55b927502f05bad1ba488f63daf56d88de0b83f00b293"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/electrum_sword.png"
+hash = "d7ec8f7f2b7c4935bef89651ba9f62bda0ec2cf0d656e1ad6e98f625e08c53ad"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/example_item.png"
@@ -377,20 +461,68 @@ file = "kubejs/assets/kubejs/textures/item/scoria.png"
 hash = "764f1e802fbf5e47099986162a38b9a4875eb22e07dbc80e3d894f6401e772f9"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/silver_axe.png"
+hash = "9bdb0da759ab45adc52693d483aa9f4d8f4ca2225067f34da8544f60aaf9f496"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/silver_hoe.png"
+hash = "de0eb7cc627496128c6c9b41493185f8f7c56f9cc121fbbe9bb6b7a3e5d20c3a"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/silver_ingot.png"
+hash = "4a95ea7301d0b6b29b8d643f98164e66d106c1e597d5b3e5552fad57f24435a4"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/silver_nugget.png"
+hash = "f5347aa537aa9a179efa58303b1b167c232c2a31f9f20d3d24fe69006122b97d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/silver_pickaxe.png"
+hash = "06845d666840f7e22386d7d8660e6b847971ce6490ba8d665d983cf49b48b3b6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/silver_shovel.png"
+hash = "b945dd8b72b1dc3c4f849c04ec07c307420a3bb448d7c61bfbb50b996fd82417"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/silver_sword.png"
+hash = "801a646298171c64b1f7ad7592bf453579b9b1409718be98a255917bedaeadde"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/slate.png"
 hash = "d8f49275a795279128a6b4343e304a2b2e089fb7919a9d9cbeaca6d3a5545eb8"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/steel_axe.png"
+hash = "6ebfc00cc8aaaafe17536811816934efe737f2133500d2de104aa41da2808102"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/steel_blend.png"
 hash = "29a8057552ace5348b7a46d1e03949759c882bd65e763394bf28487243774e7e"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/steel_hoe.png"
+hash = "23d807fd73af34fe12b11fc62c6b3015d20e27cf6fe6c4543b79edd09f436aa9"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/steel_ingot.png"
 hash = "9db91691b3b84f224f68014caa1b12868fb2ebc343c66c6b842d38e463492e1c"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/steel_pickaxe.png"
+hash = "30918ae3f80ee3d6aba9a509ea524aaf9b965d622a8667919a7040140fdff25b"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/steel_plate.png"
 hash = "89bdc0c878bb081656118f902919148abc87468e88efc4acc84ef87c35612826"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/steel_shovel.png"
+hash = "8b19393978ff86442164c777d723ad7f705cae9d4b9040280c43baf7bb412315"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/steel_sword.png"
+hash = "d33915c5e049df3d22ae91b2f81e0d00b13db0ae16c36f80ce858930cbedc50e"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/stone.png"
@@ -403,6 +535,34 @@ hash = "774e87aeb63ff16cc01d8454996d4bbc3340d917af13a5e9acbe9c8c1ac0f884"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/stone_pickaxe_head.png"
 hash = "d15f3574663c6ffd01679ba232abb70a3ec3500928abd045ccc8f8bd4bf607f9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/tin_axe.png"
+hash = "73d47cff9f33fe188c7ea7b881e63e78b5c5d634ae76ad2bb9ed54571a7ac634"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/tin_hoe.png"
+hash = "2e552356c559a9c4f954ef03ec8521681298c8f23afd16196e09c46f4c4a8353"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/tin_ingot.png"
+hash = "b21b67aafef5bf621e351dda1289bbd72d38a5214b1bbb4f397952c695f21e6d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/tin_nugget.png"
+hash = "a609555ed1079bcf1ecd70f0fb46abf2af0f0c072693d2916c91929b79a683a2"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/tin_pickaxe.png"
+hash = "6088bfa1dce1615aa5fa74aaeea37e1cc10e9380f11d8d6effb9cfbe83242351"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/tin_shovel.png"
+hash = "277f7ce98c9e6ff6de98c80d3cb9577191b5679c193072c0425897fc5afdeca0"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/tin_sword.png"
+hash = "5a2e3e6823a8611cf277e8d2843ca20e04d7f11689e5541c21d10cb10938cfd2"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/uranium_ingot.png"
@@ -455,6 +615,10 @@ hash = "2b4e327415688f894031d61f1bb23da0a647da06d037125c08fb0f62729dac9b"
 [[files]]
 file = "kubejs/data/beri/recipes/chest.json.off"
 hash = "c13b9f7c3800d4fed7df684221acb284ea03bf5cf91bd2c07e7f143b51ee834f"
+
+[[files]]
+file = "kubejs/data/beri/recipes/coal_coke_block.json"
+hash = "d43311d272f9d65983d4a9840b2ca06a952ab58ecb9d6577f4c818d784643c89"
 
 [[files]]
 file = "kubejs/data/beri/recipes/cook_coke_at_blastfurnace.json"
@@ -513,6 +677,14 @@ file = "kubejs/data/create/recipes/crushing/iron_ore.json"
 hash = "5d3d5bb2b4e8c953fb8c164fa6f711c6943affcc14eaa54e39512b8fc39b7e20"
 
 [[files]]
+file = "kubejs/data/create/recipes/crushing/silver_ore.json"
+hash = "88199215f9ca22e0fdda56608392c99601caa1974374fabf6fc8e4851e2383c9"
+
+[[files]]
+file = "kubejs/data/create/recipes/crushing/tin_ore.json"
+hash = "e497ff54ba3e53588e6004b44dd07ae8100bb08a437d6ccf19ce659d4bcd5dfe"
+
+[[files]]
 file = "kubejs/data/create/recipes/crushing/zinc_ore.json"
 hash = "f0705ec435ca2a4fdba90a5b94d7d795e938eb7bfad833df997ce8e21fe2184b"
 
@@ -527,6 +699,14 @@ hash = "9265ed377b5918582c6dd6deb377b310f4f85c6fdcb7fb76ada67eebaaaab678"
 [[files]]
 file = "kubejs/data/create/recipes/milling/iron_ore.json"
 hash = "f443942c7bd6290eeb3d23ecc96557f2330bf56f3fd1b4183ac67fa512d15a00"
+
+[[files]]
+file = "kubejs/data/create/recipes/milling/silver_ore.json"
+hash = "2b2317f2db2dc8a740ddf30ce11a4d0196d4a08428ec3bc68e2280f830cb90cd"
+
+[[files]]
+file = "kubejs/data/create/recipes/milling/tin_ore.json"
+hash = "9e59bd4adf74065c6f2db177ce3ccdbd2a023bae64f96a5727ca76abe87c232b"
 
 [[files]]
 file = "kubejs/data/create/recipes/milling/wheat.json"
@@ -623,6 +803,10 @@ hash = "18cb66ee445c9da5512fc3699310d31b99dc13175274f8861b8ad41955aa803a"
 [[files]]
 file = "kubejs/startup_scripts/newmetals.js"
 hash = "0c21410ef56937bf72e1c45f17f83318a109f0bffb36f8eca03c8e9a5374c4f1"
+
+[[files]]
+file = "kubejs/startup_scripts/newtools.js"
+hash = "06b1c06915caad170988e84635901c7796b96b6d48d3835474503aa378c18fb6"
 
 [[files]]
 file = "kubejs/startup_scripts/remove_crushed_ores.js"
