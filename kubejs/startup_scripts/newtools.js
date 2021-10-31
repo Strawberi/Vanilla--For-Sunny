@@ -21,7 +21,7 @@ onEvent('item.registry.tool_tiers', event => {
     }
   });
 
-onEvent("item.registry"), event => {
+onEvent("item.registry", event => {
     for (let [metal, lvl, spd, ech, dura, dmg] of metals) {
         let name = metal[0].toUpperCase() + metal.substr(1);
         event.create(metal + "_pickaxe")
@@ -45,4 +45,4 @@ onEvent("item.registry"), event => {
             .displayName(name + " Sword")
             .tier(metal);
     }
-}
+});
