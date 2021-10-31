@@ -189,6 +189,10 @@ file = "kubejs/assets/kubejs/textures/block/silver_ore.png"
 hash = "f6db5a1a56051ccb33372fd1cb85539b402108255bc18abafb8ace0f94eabe55"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/steel_block.png"
+hash = "1f29cb663d92472be11f654629f053bcb879c7de0259a8f9bf2532947a3fa622"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/tin_block.png"
 hash = "a8ab17916500bffec5fb4dad332077fa7ee5c9394e3096a70fbd2a3e07581646"
 
@@ -509,6 +513,10 @@ file = "kubejs/assets/kubejs/textures/item/steel_ingot.png"
 hash = "9db91691b3b84f224f68014caa1b12868fb2ebc343c66c6b842d38e463492e1c"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/steel_nugget.png"
+hash = "f64bead14c15ec200f025cfc1f00a02d8ba1c130cf79e5eade38d46e5acd3ebd"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/steel_pickaxe.png"
 hash = "30918ae3f80ee3d6aba9a509ea524aaf9b965d622a8667919a7040140fdff25b"
 
@@ -806,7 +814,7 @@ hash = "5a1c4f68c89bec8725cf692049326ceee5ae652d3587d60a609b2f61d2296073"
 
 [[files]]
 file = "kubejs/startup_scripts/newtools.js"
-hash = "c6184fb12a281948ec535f3bfcdf281a14c4973769e41b251890aab466b7ab6f"
+hash = "6912d1d0975aaf6db330ff614d984cecb6d4718aa64413c0d4575a67ca33c203"
 
 [[files]]
 file = "kubejs/startup_scripts/remove_crushed_ores.js"
