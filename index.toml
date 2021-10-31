@@ -221,6 +221,10 @@ file = "kubejs/assets/kubejs/textures/item/bronze_axe.png"
 hash = "dbabc27bc49875f64a65751b74bce49c55a01afd2fd6aebf71671bf1a31e928f"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/bronze_blend.png"
+hash = "2fd378f4c4b42b2f4bf5680f1543216a4acfa82bea919da318fb36a4d3720931"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/bronze_hoe.png"
 hash = "4bd936c4c810e74c4d7c7620da8c879b6440c1c630dd71ada2d37f937a97caa2"
 
@@ -323,6 +327,10 @@ hash = "a6dbbe006531a54a716c120cbeb4d556e63d9c6bc0bd84fc652107a658c83e70"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/electrum_axe.png"
 hash = "da132a21922625f1550b438a4de212d85e16c3d8597bec6ba8f29f5bae10a0c6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/electrum_blend.png"
+hash = "df3e60bd18e303cfddd180df16af16e55a083286298a377f4f12b4ea12a67d2f"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/electrum_hoe.png"
@@ -814,7 +822,7 @@ hash = "5a1c4f68c89bec8725cf692049326ceee5ae652d3587d60a609b2f61d2296073"
 
 [[files]]
 file = "kubejs/startup_scripts/newtools.js"
-hash = "6912d1d0975aaf6db330ff614d984cecb6d4718aa64413c0d4575a67ca33c203"
+hash = "91f487dbafa88163e87acd2a3ae335c3d78f8e81fcb904b8702588e5c024e5d0"
 
 [[files]]
 file = "kubejs/startup_scripts/remove_crushed_ores.js"

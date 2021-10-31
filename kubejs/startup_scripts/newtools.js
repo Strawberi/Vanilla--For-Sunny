@@ -25,23 +25,23 @@ onEvent("item.registry", event => {
     for (let [metal, lvl, spd, ech, dura, dmg] of metalstools) {
         let name = metal[0].toUpperCase() + metal.substr(1);
         event.create(metal + "_pickaxe")
-            .type(pickaxe)
+            .type('pickaxe')
             .displayName(name + " Pickaxe")
             .tier(metal);
         event.create(metal + "_axe")
-            .type(axe)
+            .type('axe')
             .displayName(name + " Axe")
             .tier(metal);
         event.create(metal + "_shovel")
-            .type(shovel)
+            .type('shovel')
             .displayName(name + " Shovel")
             .tier(metal);
         event.create(metal + "_hoe")
-            .type(hoe)
+            .type('hoe')
             .displayName(name + " Hoe")
             .tier(metal);
         event.create(metal + "_sword")
-            .type(sword)
+            .type('sword')
             .displayName(name + " Sword")
             .tier(metal);
     }
