@@ -54,7 +54,7 @@ onEvent("item.registry", event => {
 
 onEvent("recipes", event => {
     for (let [metal, lvl, spd, ech, dura, dmg] of metalstools) {
-        let ingot = "kubejs:" + metal + "_ingot";
+        let ingot = "#forge:ingots/" + metal;
         let pick = "kubejs:" + metal + "_pickaxe";
         let axe = "kubejs:" + metal + "_axe";
         let shovel = "kubejs:" + metal + "_shovel";

@@ -822,7 +822,7 @@ hash = "5a1c4f68c89bec8725cf692049326ceee5ae652d3587d60a609b2f61d2296073"
 
 [[files]]
 file = "kubejs/startup_scripts/newtools.js"
-hash = "361142bdb7cf299ba38f2eb21d864369dd8365f2dce2511fc200580a580a3742"
+hash = "3c86f4372c4d64bf960c125c76282d59f4cec4c17c780b5935a3c516242ffff0"
 
 [[files]]
 file = "kubejs/startup_scripts/remove_crushed_ores.js"
